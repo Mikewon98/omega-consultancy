@@ -1,0 +1,10 @@
+scipy==1.15.3
+numpy==1.26.4
+packaging==25.0
+pandas==2.2.3
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+textblob==0.17.1
+seaborn==0.12.2
+matplotlib==3.8.0
+google_play_scraper==1.2.7
